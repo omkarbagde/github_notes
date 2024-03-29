@@ -1,2 +1,26 @@
 Github Commands:
     with this repo, you will get an idea of Git and Github
+
+1. Git Clone :
+    git clone repo_url
+    this command will clone remote repo into local system
+
+2. git status:
+    this command will show the current status of your repo in local while development
+
+3. git add file_name
+    this command will add the file to track 
+    this will add single file
+
+4. git add file_name1, file_name2, ..., file_nameN
+    this will add multiple files to track
+
+5. git add .
+    this will add all the files and folders to track
+
+6. git commit -m "commit message"
+    this will commit your changes from stageing.
+
+7. git push
+    this will push the commited changes to remote repository
+
